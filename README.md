@@ -13,4 +13,5 @@ https://github.com/Naveenvuedata/Hash-Utility-Script.git
 ```
 
 ```sh 
-npm install```
+npm install
+```
