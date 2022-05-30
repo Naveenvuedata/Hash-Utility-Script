@@ -12,4 +12,5 @@ Follow the steps below
 https://github.com/Naveenvuedata/Hash-Utility-Script.git
 ```
 
-```sh npm install```
+```sh 
+npm install```
