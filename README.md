@@ -12,7 +12,7 @@ Follow the steps below
 https://github.com/Naveenvuedata/Hash-Utility-Script.git
 ```
 
-```sh 
+```sh
 npm install
 ```
 
