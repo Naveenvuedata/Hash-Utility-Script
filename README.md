@@ -16,4 +16,4 @@ https://github.com/Naveenvuedata/Hash-Utility-Script.git
 npm install
 ```
 
-React Application will starts on http://localhost:3000 
+React Application will start on http://localhost:3000 
